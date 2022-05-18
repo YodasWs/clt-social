@@ -2,7 +2,7 @@
 
 Part urbanist discussion group, part board game group, all fun in Charlotte.
 
-This repository shall serve as record of bylaws for our organization.
+⚠️ We have moved to https://github.com/Charlotte-Urbanist-Social-Club/bylaws
 
 ## Announcements
 
